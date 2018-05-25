@@ -11,7 +11,6 @@ in major browsers. I've developed it in Chrome 66.0.3359.181 and it has this fea
 Then, you can use this extension with these steps:
 * Clone the repo
 * `cd` into it.
-* run `npm run build`
 * run `npm run start`
 * Open Zeplin and add this extension as local.
 For adding an extension as local, you can follow this [Adding a local extension](https://github.com/zeplin/zeplin-extension-documentation/blob/master/tutorial.md#adding-a-local-extension)
