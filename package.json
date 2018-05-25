@@ -1,0 +1,23 @@
+{
+  "name": "emoji-to-image",
+  "version": "0.1.0",
+  "description": "Turns your plain emojis into images",
+  "scripts": {
+    "start": "zem start",
+    "build": "zem build",
+    "clean": "zem clean",
+    "exec": "zem exec"
+  },
+  "zeplin": {
+    "displayName": "Emoji to image",
+    "projectTypes": [
+      "web",
+      "ios",
+      "android",
+      "osx"
+    ]
+  },
+  "dependencies": {
+    "zem": "^0.1.2"
+  }
+}
